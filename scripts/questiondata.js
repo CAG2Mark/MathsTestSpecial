@@ -88,7 +88,7 @@ var questionsData = [
 
         The probability that he plays a certain note correctly is \\(p\\) if the previous note was played correctly, and \\(q\\) if the previous note was played incorrectly. The first note is always played correctly.<br><br>
         
-        What is the probability that he plays the final note correctly? (You may assume \\(p+q\\neq1\\)).`,
+        What is the probability that he plays the final note correctly? (You may assume \\(p-q\\neq1\\)).`,
         answerType: AnswerType.FUNCTION,
         signatureTests: [{"q": 0.6, "p": 0.5}, {"q": 0.1, "p": 0.5}, {"q": 0.9, "p": 0.4}, {"q": 0, "p": 0}, {"q": 1, "p": 1}],
         isTutorial: false
