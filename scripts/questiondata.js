@@ -7,7 +7,7 @@ const AnswerType = {
 // after question p, q, r, etc
 var cp_pos = [];
 
-const ANS_HASH = "481da9143756bc628a639e95000d5244b6d536013cb7520b496c44a11e928e06";
+const ANS_HASH = "1e9010bf09812dad5c8f2b62eaaa2c5d10aa36ac8e808836a81aabfec13f7569";
 const CHECKPOINT_HASHES = [];
 
 var questionsData = [
