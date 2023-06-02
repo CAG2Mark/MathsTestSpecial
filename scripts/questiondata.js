@@ -90,7 +90,7 @@ var questionsData = [
         
         What is the probability that he plays the last note correctly? (You may assume \\(p+q\\neq1\\)).`,
         answerType: AnswerType.FUNCTION,
-        signatureTests: [{"q": 0.6, "p": 0.4}, {"q": 0.1, "p": 0.5}, {"q": 0.9, "p": 0.4}, {"q": 0, "p": 0}, {"q": 1, "p": 1}],
+        signatureTests: [{"q": 0.6, "p": 0.5}, {"q": 0.1, "p": 0.5}, {"q": 0.9, "p": 0.4}, {"q": 0, "p": 0}, {"q": 1, "p": 1}],
         isTutorial: false
     }
 ];
