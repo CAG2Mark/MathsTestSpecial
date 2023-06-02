@@ -77,7 +77,7 @@ var questionsData = [
         \\[
          \\int^{20}_{-20} f(x) \\, d u(x) = 20 
         \\]
-        Hint: Think very carefully what integration with respect to a function means. Intuitively, when integrating with respect to \\(x\\) (i.e. \\(dx\\) is in the integral), each infinitesimal "slice" is weighted equally, as the (unit) change of \\(x\\) is constant. What kind of change do we have when we integrate with respect to the unit step function?`,
+        Hint: If you haven't learnt integration theory, I'll give you a free pass to take the long, tedious path and use integration by parts.`,
         answerType: AnswerType.NUMBER,
         signatureTests: null,
         isTutorial: false,
