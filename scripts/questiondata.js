@@ -59,7 +59,7 @@ var questionsData = [
         id: "sum",
         prompt: `How many different ways are there to sum to \\(20\\) using only positive integers? The order of the summands matter.<br><br>
 
-        As a simpler example, the different number of ways to sum to \\(4\\) are \\(4\\), \\(1 + 3\\), \\(2 + 2\\), \\(3 + 1\\), \\(1 + 1 + 2\\), \\(1 + 2 + 1\\), \\(2 + 1 + 1\\), \\(1 + 1 + 1 + 1\\).`,
+        As a simpler example, all ways to sum to \\(4\\) are \\(4\\), \\(1 + 3\\), \\(2 + 2\\), \\(3 + 1\\), \\(1 + 1 + 2\\), \\(1 + 2 + 1\\), \\(2 + 1 + 1\\), \\(1 + 1 + 1 + 1\\).`,
         answerType: AnswerType.NUMBER,
         signatureTests: null,
         isTutorial: false
